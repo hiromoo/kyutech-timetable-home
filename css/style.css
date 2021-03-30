@@ -393,7 +393,7 @@ footer .pr {
 /*Twitterタイムライン
 ---------------------------------------------------------------------------*/
 #new > dl {
-	width: 400px;
+	width: fit-content;
 	height: auto;
 }
 
